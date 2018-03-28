@@ -1,0 +1,14 @@
+{
+    "discord": {
+        "token": "token",
+		"prefix": "!",
+		"owner": "user ID here"
+	},
+	"google": {
+		"username": "email address",
+		"password": "app password"
+	},
+	"chromecast": {
+		"ip": "local ip address of your chromecast audio"
+	}
+}
